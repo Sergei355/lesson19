@@ -3,8 +3,10 @@ def test():
 
 
 def main():
+    print(test)
     test()
 
 
-if__name__ == "__main__":
-    main()
+
+
+main()
