@@ -3,7 +3,10 @@ def test():
 
 
 def main():
-    print(test)
+    print("testing...")
+    print("testing...")
+    print("testing...")
+    print("testing...")
     test()
 
 
